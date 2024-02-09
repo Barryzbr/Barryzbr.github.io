@@ -11,5 +11,6 @@
   description: 'CET-6: 520; IELTS: 7'
 
 - title: 'Honoer'
-  description: 'University Scholarship - Five consecutive semester'
-  description: 'University "Three good" student - Two consecutive Years'
+  description: 
+   -' University Scholarship - Five consecutive semesters'
+   -' University "Three good" student - Two consecutive Years'
