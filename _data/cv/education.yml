@@ -10,7 +10,7 @@
 - title: 'English Level'
   description: 'CET-6: 520; IELTS: 7'
 
-- title: 'Honor'
+- title: 'Honor'|
   description:
-    - 'University Scholarship - Five consecutive semesters\n'
-    - 'University "Three good" student - Two consecutive Years\n'
+    - 'University Scholarship - Five consecutive semesters'
+    - 'University "Three Good Student" - Two consecutive Years'
