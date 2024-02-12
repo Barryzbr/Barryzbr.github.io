@@ -22,4 +22,4 @@ courses:
 # - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Zhang Bairui', title: 'Student', department: 'Computer Science & Technology', institution: 'Northeastern University', institution_address: 'Qinhuangdao, China', phone: '(+86) 130-1541-3337', wechat:'zbrWeChat', email: 'barryzhang@stumail.neu.edu.cn', Department: 'Sydney Smart Technology College', image: 'assets/img/contact.jpg'}
+- {name: 'Zhang Bairui', title: 'Student', department: 'Computer Science & Technology', institution: 'Northeastern University', institution_address: 'Qinhuangdao, China', phone: '(+86) 130-1541-3337', email: 'barryzhang@stumail.neu.edu.cn', Department: 'Sydney Smart Technology College', image: 'assets/img/contact.jpg'}
