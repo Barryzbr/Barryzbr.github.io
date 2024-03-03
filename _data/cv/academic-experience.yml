@@ -1,14 +1,39 @@
-- title: 'Current Status and Future Directions of Artificial Intelligence in the Diagnosis and Treatment of Pancreatic Cancer'
+- title: 'Real-time Emotion Recognition Model based on CNN'
   description:
-    - 'MDPI (SCI Region IV).'
-    - 'Responsible for introducing, recognizing, segmenting, and classifying pancreatic MRI images in the review.'
+    - 'Language and Intelligence Systems Laboratory, Northeastern University at Qin Huangdao (10/2023-Present).'
+    - 'Trained on emotion recognition dataset from Kaggle, achieving an accuracy of over 50% for 7 types of emotions.'
+    - 'Realized the real-time recognition of facial expressions by integrating the camera through Opencv.'
 
-- title: 'Attend a Research Camp by MIT Professors'
+- title: 'Multimodal Emotion Recognition'
   description:
-    - 'Received an A (98/100) from Manolis Kellis for my overall performance.'
-    - 'Published a paper titled "Factors that Increase the Mortality of Sepsis and Personalized Medication for Patients with Sepsis."'
-    - 'Based on the MIMIC IV dataset, by analyzing the similarities and differences in the data, comparing the indicators of general patients and ICU patients with those of general patients suffering from sepsis.'
+    - 'Language and Intelligence Systems Laboratory, Northeastern University at Qin Huangdao (In the stage of experimental model improvement).'
+    - 'Focused on the practical applications of computer vision and natural language processing for emotion recognition.'
+    - 'Optimized models through deep learning to achieve multimodal emotion recognition.'
+    - 'Completed the reproduction of top conference papers.'
 
-- title: 'Member of the Language and Intelligent Systems Laboratory'
+- title: 'Advancements in Artificial Intelligence-Enabled Automated Pancreatic Cancer Analysis in Images of Different Modalities'
   description:
-    - 'Focus on the application of multimodality in emotion classification.'
+    - 'MDPI Cancer (03/2023-Present).'
+    - 'Responsible for the introduction, recognition, segmentation, and classification of pancreatic MRI images.'
+    - 'Completed the paper submission to the MDPI Cancer.'
+
+- title: 'Factors that Increase the Mortality of Sepsis and Personalized Medication for Patients with Sepsis'
+  description:
+    - 'Guided by MIT Professor Manolis Kellis (07/2023-08/2023).'
+    - 'Analyzed data of common and ICU patients with sepsis, based on the MIMIC IV dataset.'
+    - 'Identified important features affecting mortality through various analytical techniques.'
+    - 'Developed a medication prediction model for sepsis patients.'
+    - 'Published the paper as the first author and corresponding author in the EI conference.'
+
+- title: 'Multi-Functional Foldable Desktop Expander'
+  description:
+    - 'Innovation and Entrepreneurship Practice (03/2023-07/2023).'
+    - 'Led the team to complete the filming and editing of the product Prototype Pitch.'
+    - 'Completed financial analysis, market research, detailed description, and the final report of the product.'
+    - 'Produced a utility model patent and a design patent as the first inventor.'
+
+- title: 'Pancreatic Organ Recognition and Image Extraction in CT Images'
+  description:
+    - 'University Student Innovation and Entrepreneurship (10/2022-03/2023).'
+    - 'Applied deep learning-based pancreatic organ recognition and image extraction in CT images for medical-assisted judgment.'
+    - 'Published the patent “An Image Acquisition Assisted Diagnosis Device” as the second inventor.'
