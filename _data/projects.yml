@@ -1,1 +1,10 @@
+featured:
+#- {name: '123', url: '/publications/1501.07274.pdf'}
+- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis', url: 'https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ISAIMS2023/213/4dcb90f1-c4cf-11ee-8ef9-16bb50361d1f/OUT/isaims2023-213.html'}
+#- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
+index:
+#- {name: '123', url: '/publications/1501.07274.pdf'}
+- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis', url: 'https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ISAIMS2023/213/4dcb90f1-c4cf-11ee-8ef9-16bb50361d1f/OUT/isaims2023-213.html'}
+#- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+#- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
