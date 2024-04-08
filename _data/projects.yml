@@ -1,6 +1,6 @@
 featured:
-- {name: 'Design Innovation & Entrepreneurship Fundamentals', url: '/publications/DIEF.pdf'}
-#- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis', url: 'https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ISAIMS2023/213/4dcb90f1-c4cf-11ee-8ef9-16bb50361d1f/OUT/isaims2023-213.html'}
+- {name: 'Design Innovation & Entrepreneurship Fundamentals (Course Project in the Sophomore Year)', url: '/publications/DIEF.pdf'}
+- {name: 'Algorithm Design (Course Project)', url: '/publications/Display.mp4'}
 #- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
