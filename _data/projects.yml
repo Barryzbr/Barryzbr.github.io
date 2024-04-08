@@ -1,15 +1,16 @@
 featured:
-- {name: 'Design Innovation & Entrepreneurship Fundamentals-Foldable desktop design (Course Project in the Sophomore Year)', url: '/publications/DIEF.pdf'}
-- {name: 'Algorithm Design-Improved Genetic Algorithm Based on Greedy and Elite Strategy (Course Project in the Sophomore Year)', url: '/publications/Display_x264.mp4'}
-- {name: 'The submitted Paper of 2023 Asia Pacific Mathematical Competition Modeling-First Prize', url: '/publications/apmcm.pdf'}
 - {name: 'The First Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation1.pdf'}
 - {name: 'The Second Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation2.pdf'}
+- {name: 'The submitted Paper of 2023 Asia Pacific Mathematical Competition Modeling-First Prize', url: '/publications/apmcm.pdf'}
+- {name: 'Algorithm Design-Improved Genetic Algorithm Based on Greedy and Elite Strategy (Course Project in 2023)', url: '/publications/Display_x264.mp4'}
+- {name: 'Design Innovation & Entrepreneurship Fundamentals-Foldable desktop design (Course Project in 2023)', url: '/publications/DIEF.pdf'}
+
 
 index:
-- {name: 'Design Innovation & Entrepreneurship Fundamentals-Foldable desktop design (Course Project in the Sophomore Year)', url: '/publications/DIEF.pdf'}
-- {name: 'Algorithm Design-Improved Genetic Algorithm Based on Greedy and Elite Strategy (Course Project in the Sophomore Year)', url: '/publications/Display_x264.mp4'}
-- {name: 'The submitted Paper of 2023 Asia Pacific Mathematical Competition Modeling-First Prize', url: '/publications/apmcm.pdf'}
 - {name: 'The First Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation1.pdf'}
 - {name: 'The Second Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation2.pdf'}
+- {name: 'The submitted Paper of 2023 Asia Pacific Mathematical Competition Modeling-First Prize', url: '/publications/apmcm.pdf'}
+- {name: 'Algorithm Design-Improved Genetic Algorithm Based on Greedy and Elite Strategy (Course Project in 2023)', url: '/publications/Display_x264.mp4'}
+- {name: 'Design Innovation & Entrepreneurship Fundamentals-Foldable desktop design (Course Project in 2023)', url: '/publications/DIEF.pdf'}
 #- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 #- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
