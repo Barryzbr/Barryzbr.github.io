@@ -5,16 +5,20 @@
   description: '91.98 (3/115)'
 
 - title: 'Major Course Direction'
-  description: 'C++; Computer Network; Operating System; Principles of Computer Composition; Database principles; Algorithm design and analysis; Data structure, etc.'
+  description: 'Course Highlights: C++ Programming (97), Data Structures (98), Database Principles (94), Algorithm Design and Analysis (94), Advanced Mathematical Modeling (97), Operating Systems (94), Computer Organization Principles (93), Software Architecture (98), Innovation and Entrepreneurship Fundamentals (98), Engineering Economics (98), etc.'
 
-- title: 'English Level'
-  description: 'CET-6: 540'
+- title: 'English Proficiency'
+  description: 'CET-6: 540, IELTS: 6.5 (6)'
 
-- title: 'Honor'
+- title: 'Honor and Awards'
   description:
+    - 'National Level: Meritorious Winer in the Mathematical Contest in Modeling (2024), First Prize in the Asia-Pacific Mathematical Contest for University Students (2023)'
     - 'University Scholarship - Five consecutive semesters'
     - 'University "The Merit Student" - Two consecutive Years'
+    - 'Design Patents: Desktop Expander (Multi-functional Foldable) [First Designer ZL202330570881.0] (2023), A Multi-functional Desktop Expander [First Inventor ZL202322388965.X] (2023), An Image Acquisition Assisted Diagnosis Device [Second Inventor ZL202321362505.3] (2023)'
 
-- title: 'Competitions'
+- title: "Personal Summary"
   description:
-    - 'First Prize-APMCM'
+    - 'Proficient in Python, Matlab, Pandas, Numpy, and deep learning tools; familiar with Pytorch framework and its applications (CNN, LSTM, Transformer, etc.).'
+    - 'Skilled in various scientific visualization methods and proficient in writing English papers.'
+    - 'Served as class publicity commissioner, international course assistant, demonstrating strong team communication and organizational skills.'
