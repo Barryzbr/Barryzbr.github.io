@@ -1,39 +1,34 @@
-- title: 'Real-time Emotion Recognition Model based on CNN'
+- title: "Multimodal Facial Emotion Recognition Model"
   description:
-    - 'Language and Intelligence Systems Laboratory, Northeastern University at Qin Huangdao (10/2023-Present).'
-    - 'Trained on emotion recognition dataset from Kaggle, achieving an accuracy of over 50% for 7 types of emotions.'
-    - 'Realized the real-time recognition of facial expressions by integrating the camera through Opencv.'
+    - "Northeastern University, Language and Intelligent System Laboratory, Multimodal Team Member"
+    - "October 2023 – Present"
+    - "Reproduced a Transformer-based multimodal emotion recognition model integrating textual, auditory, and visual information layers."
+    - "Enhanced the original model architecture by incorporating Transformer modules for fusion of information from three single-modal layers at each level."
+    - "Designed two different forward functions and loss functions for independent and non-independent modalities, and developed classifiers for modality differentiation."
+    - "Currently working on completing all experiments and planning to prioritize submission to CCF-B and higher-level conferences (first author) by early May."
 
-- title: 'Multimodal Emotion Recognition'
+- title: "Literature Review on the Application and Prospects of Artificial Intelligence in the Diagnosis and Treatment of Pancreatic Cancer"
   description:
-    - 'Language and Intelligence Systems Laboratory, Northeastern University at Qin Huangdao (In the stage of experimental model improvement).'
-    - 'Focused on the practical applications of computer vision and natural language processing for emotion recognition.'
-    - 'Optimized models through deep learning to achieve multimodal emotion recognition.'
-    - 'Completed the reproduction of top conference papers.'
+    - "June 2023 – Present"
+    - "Paper Title: 'Advances in Artificial Intelligence for Automated Analysis of Pancreatic Cancer in Different Modality Images'"
+    - "Summarized the advancements of AI algorithms (DL & ML) in MRI-based pancreatic cancer medical imaging analysis to provide insights for the medical field."
+    - "Responsible for drafting the introduction, pancreatic MRI image introduction, algorithm summaries for classification, segmentation, object detection, and prognosis prediction using Latex."
+    - "Completed the review paper and will submit to MDPI Cancer journal (second author, JCR Q2)."
 
-- title: 'Advancements in Artificial Intelligence-Enabled Automated Pancreatic Cancer Analysis in Images of Different Modalities'
+- title: "Sepsis Patient Mortality Prediction and Medication Prediction Model"
   description:
-    - 'MDPI Cancer (03/2023-Present).'
-    - 'Responsible for the introduction, recognition, segmentation, and classification of pancreatic MRI images.'
-    - 'Completed the paper submission to the MDPI Cancer.'
-
-- title: 'Factors that Increase the Mortality of Sepsis and Personalized Medication for Patients with Sepsis'
-  description:
-    - 'Guided by MIT Professor Manolis Kellis (07/2023-08/2023).'
-    - 'Analyzed data of common and ICU patients with sepsis, based on the MIMIC IV dataset.'
-    - 'Identified important features affecting mortality through various analytical techniques.'
-    - 'Developed a medication prediction model for sepsis patients.'
-    - 'Published the paper as the first author and corresponding author in the EI conference.'
+    - "Under the Guidance of MIT Professor Manolis Kellis (Team Learder)"
+    - "July 2023 – September 2023"
+    - "Paper Title: 'Factors that Increase the Mortality of Sepsis and Personalized Medication for Patients with Sepsis'"
+    - "Investigated factors affecting sepsis patient mortality rates and medication usage to develop personalized medication prediction models."
+    - "Utilized SVM, Random Forest, XGBoost, etc., machine learning algorithms for mortality prediction and feature extraction from the MIMIC IV dataset."
+    - "Identified 17 vital signs (e.g., age, respiratory rate) and 7 drugs (e.g., epinephrine, hydrocodone) correlated with patient mortality. Developed personalized medication models achieving an average accuracy of 73%."
+    - "Received a rating of A (98/100) from Professor Manolis Kellis and the paper has been published by ACM (first author, indexed by EI)."
 
 - title: 'Multi-Functional Foldable Desktop Expander'
   description:
-    - 'Innovation and Entrepreneurship Practice (03/2023-07/2023).'
+    - 'Design Innovation and Entrepreneurship Fundamental Course Project (Team Leader)'
+    - 'March 2023- July 2023)'
     - 'Led the team to complete the filming and editing of the product Prototype Pitch.'
     - 'Completed financial analysis, market research, detailed description, and the final report of the product.'
     - 'Produced a utility model patent and a design patent as the first inventor.'
-
-- title: 'Pancreatic Organ Recognition and Image Extraction in CT Images'
-  description:
-    - 'University Student Innovation and Entrepreneurship (10/2022-03/2023).'
-    - 'Applied deep learning-based pancreatic organ recognition and image extraction in CT images for medical-assisted judgment.'
-    - 'Published the patent “An Image Acquisition Assisted Diagnosis Device” as the second inventor.'
