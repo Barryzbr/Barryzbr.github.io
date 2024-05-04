@@ -1,4 +1,5 @@
 featured:
+- {name: 'The Paper of ICM——Meritorious Winner', url: '/publications/SubmittedICM.pdf'}
 - {name: 'The First Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation1.pdf'}
 - {name: 'The Second Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation2.pdf'}
 - {name: 'The submitted Paper of 2023 Asia Pacific Mathematical Competition Modeling-First Prize', url: '/publications/apmcm.pdf'}
@@ -7,6 +8,7 @@ featured:
 
 
 index:
+- {name: 'The Paper of ICM——Meritorious Winner', url: '/publications/SubmittedICM.pdf'}
 - {name: 'The First Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation1.pdf'}
 - {name: 'The Second Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation2.pdf'}
 - {name: 'The submitted Paper of 2023 Asia Pacific Mathematical Competition Modeling-First Prize', url: '/publications/apmcm.pdf'}
