@@ -2,11 +2,13 @@ $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: "Times New Roman", Times, serif;
 $linkColor: #212529 !important;
+$bodyFontSize: 10px; /* 调整字体大小 */
 
 body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: $bodyFontSize;
 }
 
 body a {
