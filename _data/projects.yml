@@ -1,5 +1,5 @@
 featured:
-- {name: 'The Course Work of Deep Learning——Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition (Score:99)', url: '/publications/DeepLearning.pdf'}
+- {name: 'The Course Work of Deep Learning——Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition (Score: 99)', url: '/publications/DeepLearning.pdf'}
 - {name: 'The Paper of ICM——Meritorious Winner', url: '/publications/SubmittedICM.pdf'}
 - {name: 'The First Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation1.pdf'}
 - {name: 'The Second Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation2.pdf'}
@@ -9,7 +9,7 @@ featured:
 
 
 index:
-- {name: 'The Course Work of Deep Learning——Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition (Score:99)', url: '/publications/DeepLearning.pdf'}
+- {name: 'The Course Work of Deep Learning——Cross-Attentive Adversarial Autoencoder Based on Transformer for Multi-Modal Emotion Recognition (Score: 99)', url: '/publications/DeepLearning.pdf'}
 - {name: 'The Paper of ICM——Meritorious Winner', url: '/publications/SubmittedICM.pdf'}
 - {name: 'The First Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation1.pdf'}
 - {name: 'The Second Simulation Exercise Paper for ICM2024', url: '/publications/ICM_simulation2.pdf'}
