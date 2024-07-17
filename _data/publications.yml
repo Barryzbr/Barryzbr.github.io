@@ -1,9 +1,11 @@
 featured:
 #- {name: '123', url: '/publications/1501.07274.pdf'}
 - {name: 'AI in Pancreatic Image Analysis: A Review  (SCI JCR Q2)', url: '/publications/sensors2.pdf'}
+- {name: 'Taking Cloze with Options: Detecting Social Emotions with Affective Knowledge Prompts (Submitted to COLING)'}
 #- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis (EI Search)', url: 'https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ISAIMS2023/213/4dcb90f1-c4cf-11ee-8ef9-16bb50361d1f/OUT/isaims2023-213.html'}
 #- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
+Knowledge Prompts
 index:
 #- {name: '123', url: '/publications/1501.07274.pdf'}
 - {name: 'AI in Pancreatic Image Analysis: A Review (SCI JCR Q2)', url: '/publications/sensors2.pdf'}
