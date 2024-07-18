@@ -5,7 +5,7 @@
     - "Reproduced a Transformer-based multimodal emotion recognition model integrating textual, auditory, and visual information layers."
     - "Enhanced the original model architecture by incorporating Transformer modules for fusion of information from three single-modal layers at each level."
     - "Designed two different forward functions and loss functions for independent and non-independent modalities, and developed classifiers for modality differentiation."
-    - "Currently working on completing all experiments and planning to prioritize submission to CCF-B and higher-level conferences (first author) by early May."
+    - "Currently completing all experiments"
 
 - title: "Literature Review on the Application and Prospects of Artificial Intelligence in the Diagnosis and Treatment of Pancreatic Cancer"
   description:
@@ -13,7 +13,7 @@
     - "Paper Title: 'Advances in Artificial Intelligence for Automated Analysis of Pancreatic Cancer in Different Modality Images'"
     - "Summarized the advancements of AI algorithms (DL & ML) in MRI-based pancreatic cancer medical imaging analysis to provide insights for the medical field."
     - "Responsible for drafting the introduction, pancreatic MRI image introduction, algorithm summaries for classification, segmentation, object detection, and prognosis prediction using Latex."
-    - "Completed the review paper and will submit to MDPI Cancer journal (second author, JCR Q2)."
+    - "Accepted by Sensors (second author, JCR Q2)."
 
 - title: "Sepsis Patient Mortality Prediction and Medication Prediction Model"
   description:
