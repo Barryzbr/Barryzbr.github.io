@@ -2,13 +2,21 @@ featured:
 #- {name: '123', url: '/publications/1501.07274.pdf'}
 - {name: 'AI in Pancreatic Image Analysis: A Review  (SCI JCR Q2)', url: '/publications/sensors1.pdf'}
 - {name: 'Taking Cloze with Options: Detecting Social Emotions with Affective Knowledge Prompts (Submitted to COLING)'}
-- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis (EI Search)', url: 'https://dl.acm.org/doi/pdf/10.1145/3644116.3644330'}
+- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis (EI Search)', url: 'https://dl.acm.org/doi/pdf/10.1145/3644116.3644330
+        
+        
+        
+        '}
 #- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
 #- {name: '123', url: '/publications/1501.07274.pdf'}
-- {name: 'AI in Pancreatic Image Analysis: A Review (SCI JCR Q2)', url: '/publications/sensors1.pdf'}
-- {name: 'Taking Cloze with Options: Detecting Social Emotions with Affective Knowledge Prompts (Submitted to COLING)'}
-- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis (EI Search)', url: 'https://dl.acm.org/doi/pdf/10.1145/3644116.3644330'}
+- {name: 'AI in Pancreatic Image Analysis: A Review (SCI JCR Q2) 2nd', url: '/publications/sensors1.pdf'}
+- {name: 'Taking Cloze with Options: Detecting Social Emotions with Affective Knowledge Prompts 1st (NAACL Under Review)'}
+- {name: 'Factors that increase the mortality of sepsis and personalized medication for patients with sepsis 1st (EI Search)', url: 'https://dl.acm.org/doi/pdf/10.1145/3644116.3644330
+        
+        
+        
+        '}
 #- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 #- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
